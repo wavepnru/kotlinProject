@@ -13,7 +13,7 @@
         android:id="@+id/textview1"
         android:textStyle="bold"
         android:textSize="25sp"
-        android:text="I love you"
+        android:text="Hello World"
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
